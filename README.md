@@ -17,7 +17,7 @@ Or download the zip file and run the project on your system.
 To deploy this project run - cd <file_path_to_this_repo>
 
 ```bash
-cd face_mask_detection 
+cd Face-Mask-Detection
 ```
 Create a virtual environment and activate it for the installation of the packages
 ```bash
