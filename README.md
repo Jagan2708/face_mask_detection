@@ -22,6 +22,9 @@ cd Face-Mask-Detection
 Create a virtual environment and activate it for the installation of the packages
 ```bash
 python -m venv .env
+```
+Next
+```bash
 .env/Scripts/activate
 ```
 Install the required packaes
