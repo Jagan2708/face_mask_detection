@@ -65,7 +65,7 @@ Feel free to customize this template based on the specifics of your project. Inc
 
 ## Authors
 
-- [@Jagan2708](https://github.com/Jagan2708)
+- [Kitten Coder ✧](https://github.com/kitten04)
 
 
 ## 🔗 Links
