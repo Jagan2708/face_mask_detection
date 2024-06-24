@@ -9,7 +9,7 @@ This project is a machine learning-based face mask detection system. The goal is
 Clone my repository using the command
 
 ```bash
-https://github.com/kitten04/Face-Mask-Detection.git
+https://github.com/njagan04/Face-Mask-Detection.git
 ```
 Or download the zip file and run the project on your system.
 ## Deployment
@@ -65,7 +65,7 @@ Feel free to customize this template based on the specifics of your project. Inc
 
 ## Authors
 
-- [Kitten Coder ✧](https://github.com/kitten04)
+- [Kitten Coder ✧](https://github.com/njagan04)
 
 
 ## 🔗 Links
